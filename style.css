@@ -66,6 +66,8 @@ body {
     height:40px;
     font-size: 16px;
     border-radius: 12px;
+    border-color: white;
+    border-style: solid;
 }
 
 .signup {
